@@ -9,6 +9,7 @@ Task:
   (hints: always pull before you push)
 
 list of completion:
+- [Archit Bhatia](https://github.com/archit-bhatia)
 
    eg:
 
